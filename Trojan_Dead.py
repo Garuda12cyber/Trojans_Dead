@@ -14,6 +14,7 @@ W = "\033[0;1m"     # White
 R = "\033[31m"    # Red
 C = "\033[36;1m"    # Cyan
 os.system("clear")
+os.system("termux-open-url  https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ  ")
 logo = BB+"""
                       ..-------.`                      
                 `--::-..........-:::--`                
