@@ -14,7 +14,6 @@ W = "\033[0;1m"     # White
 R = "\033[31m"    # Red
 C = "\033[36;1m"    # Cyan
 os.system("clear")
-os.system("Terminal-open-url   https://youtube.com/channel/UC2ItJzPgWyihgREWErfr65g ")
 logo = BB+"""
                       ..-------.`                      
                 `--::-..........-:::--`                
