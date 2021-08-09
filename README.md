@@ -2,7 +2,7 @@
 
 1. pkg update && pkg upgrade
 2. pkg install python
-3. PKG install git
+3. pkg install git
 3. pip2 install mechanize
 4. pip2 install requests
 8. git clone https://github.com/Garuda12cyber/Trojans_Dead.git
