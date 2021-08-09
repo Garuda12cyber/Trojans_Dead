@@ -14,4 +14,4 @@ Cara mengirim Trojans_Dead di termux
 11. ls
 12. python Trojan_Dead.py
 
-# Jangan di salah gunakan tools Trojan_Dead o
+# Jangan di salah gunakan tools Trojan_Dead 
