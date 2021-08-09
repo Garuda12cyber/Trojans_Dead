@@ -54,7 +54,7 @@ def run(x):
 		time.sleep(0.1)
 def main():
 	os.system('clear')
-	print logo
+	print(logo)
 	print
 	no = raw_input(Y+"["+GL+"Masukin nomor Target"+YY+"]["+GL+"?"+YY+"]>> "+G)
 	run(GL+"[!] Lagi di proses bro mohon ber sabar ...")
@@ -82,7 +82,7 @@ def main():
 
 def serang(no):
 	os.system('clear')
-	print logo
+	print(logo)
 	print
 	run(GL+"[!] Trojans_Dead ATTACK  ....")
 	time.sleep(2)
