@@ -62,7 +62,7 @@ def main():
 	run(GL+"[!] Lagi di proses bro mohon bersabar ")
 	run(GL+"[!] masih di proses bro mohon bersabar ")
 	run(BB+"[!] Gagal di proses mohon maaf ")
-	run(CC+"[!] Tools ini hanya bisa di terminal linux ")
+	run(CC+"[!] Tools ini hanya bisa digunakan di terminal linux ")
 	run(YY+"[!] tidak bisa digunakan di termux ")
 	run(RR+"[!] Tools ini bisa mengirim trojan sampai 41 negara nomor whatsapp ")
 	run(GG+"[!] terserah kalian mau mengirim trojan ke nomor negara yang mana ")
