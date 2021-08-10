@@ -5,7 +5,10 @@
 3. ls
 4. python Trojan_Dead.py
 
-5. masukin nomor whatsapp negara yang ingin dikirim trojan
+tools ini bisa mengirim trojan 41 negara nomor whatsapp 
+
+5. masukin nomor whatsapp negara yang ingin dikirim trojan 
+
 
 # ini kumpulan code negara nomor whatsapp 
 
